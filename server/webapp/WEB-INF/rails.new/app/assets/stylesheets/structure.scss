@@ -128,11 +128,12 @@ body[dir='ltr'] {
 
 
 .pipeline .stages .stage_bar{
-    height: 12px;
+    height: 120px;
     margin-top: 10px;
     display: block;
-    line-height: 12px;
+    line-height: 120px;
     margin-right: 4px;
+    background-size: 100% 100%;
 }
 
 .pipeline .stages .stage_bar:hover {
